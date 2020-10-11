@@ -15,3 +15,8 @@
 
 ## Library
 - [okhttp library]( https://square.github.io/okhttp/ )
+
+
+## Client (target)
+
+- Android Mobile Application
