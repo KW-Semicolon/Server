@@ -4,8 +4,11 @@
 - Organization (w. link) : 광운대학교 컴퓨터정보공학부 세미콜론 팀 [KW-Semicolon](https://github.com/KW-Semicolon)
 - email address : lamlyg@naver.com <br />
 
-<br/>
+
 ## Development Environment
+
 - JDK 8
+
 - Tomcat
+
 - Eclipse
